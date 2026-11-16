@@ -1,4 +1,4 @@
-const CACHE_NAME = 'joblog-shell-v1';
+const CACHE_NAME = 'joblog-shell-v2';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
